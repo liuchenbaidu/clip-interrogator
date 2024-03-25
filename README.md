@@ -1,4 +1,5 @@
 # clip-interrogator
+# 用于生成提示 "ViT-H-14/laion2b_s32b_b79k" 选择这模型
 
 *Want to figure out what a good prompt might be to create new images like an existing one? The **CLIP Interrogator** is here to get you answers!*
 
